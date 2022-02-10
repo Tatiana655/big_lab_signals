@@ -25,4 +25,5 @@
 - Один для всех фотографий
 - В пространстве находится в горизонтальном положении
 
-## Фотографии объектов: https://drive.google.com/drive/folders/1rrVlvPRfrt-whINtHcryGTQC_jkgdkBm?usp=sharing
+## Датасет с объектами
+Фотографии объектов: https://drive.google.com/drive/folders/1rrVlvPRfrt-whINtHcryGTQC_jkgdkBm?usp=sharing
