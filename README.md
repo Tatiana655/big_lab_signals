@@ -29,5 +29,8 @@
 #### Многоугольник
 - Многоугольник задается фигурой, нарисованной темным маркером на белом листе бумаги, сфотографированной вместе с предметами.
 
-## Датасет с объектами
+### Датасет с объектами
 Фотографии объектов: https://drive.google.com/drive/folders/1rrVlvPRfrt-whINtHcryGTQC_jkgdkBm?usp=sharing
+
+## Сбор данных
+На гугл диске фотографии и таблица с отвеами и комменариями про особенные случаи: https://drive.google.com/drive/folders/1FsFPt8-jVN2nXhVPMfr8zcz-5BrAyhLl?usp=sharing
