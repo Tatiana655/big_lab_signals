@@ -39,4 +39,4 @@
 Фотографии объектов: https://drive.google.com/drive/folders/1rrVlvPRfrt-whINtHcryGTQC_jkgdkBm?usp=sharing
 
 ## Сбор данных
-На гугл диске фотографии и таблица с отвеами и комменариями про особенные случаи: https://drive.google.com/drive/folders/1FsFPt8-jVN2nXhVPMfr8zcz-5BrAyhLl?usp=sharing
+На гугл диске фотографии и таблица с ответами и комменариями про особенные случаи: https://drive.google.com/drive/folders/1FsFPt8-jVN2nXhVPMfr8zcz-5BrAyhLl?usp=sharing
