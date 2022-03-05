@@ -1,0 +1,57 @@
+['star', 'star', 'star']
+i =  2
+['loupe', 'star', 'UNKNOWN']
+i =  3
+['divider', 'pencil']
+i =  4
+['Virt', 'UNKNOWN']
+i =  5
+['tardis', 'Virt']
+i =  6
+['loupe', 'star', 'pencil']
+i =  7
+['tardis', 'UNKNOWN']
+i =  8
+['tardis', 'UNKNOWN', 'UNKNOWN']
+i =  9
+['star', 'black_obj']
+i =  10
+['star', 'star', 'black_obj']
+i =  11
+['black_obj', 'UNKNOWN']
+i =  12
+['loupe', 'tardis', 'UNKNOWN']
+i =  13
+['loupe', 'star']
+i =  14
+['UNKNOWN', 'UNKNOWN']
+i =  15
+['tardis', 'UNKNOWN']
+i =  16
+['loupe', 'UNKNOWN', 'UNKNOWN']
+i =  17
+['star', 'black_obj', 'tardis']
+i =  18
+['loupe', 'black_obj', 'divider']
+i =  19
+['loupe', 'star', 'pencil']
+i =  20
+['loupe', 'pencil']
+i =  21
+['star', 'divider']
+i =  22
+['pencil', 'UNKNOWN']
+i =  23
+['divider', 'UNKNOWN']
+i =  24
+['loupe', 'UNKNOWN']
+i =  25
+['pencil', 'Virt', 'UNKNOWN']
+i =  26
+['tardis', 'Virt', 'UNKNOWN', 'UNKNOWN']
+i =  27
+['loupe', 'UNKNOWN']
+i =  28
+['tardis', 'Virt', 'UNKNOWN']
+i =  29
+['pencil', 'UNKNOWN']
