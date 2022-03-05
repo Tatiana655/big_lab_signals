@@ -1,3 +1,5 @@
+i - номер картинки
+i =  1
 ['star', 'star', 'star']
 i =  2
 ['loupe', 'star', 'UNKNOWN']
