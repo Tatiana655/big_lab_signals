@@ -8,9 +8,9 @@ import cv2
 TO-DO: требования про библиотеку и тесты в ноутбуке
 план:
 1) Найти многоугольник(ok)
-реультаты в папке code/test (результаты работы функции find_polygon_paper())
+реультаты в папке code/test
 2) Определение объектов по особым точкам(ok + to-do)
-реультаты в файле code/test_res.txt (результаты работы функции identify_obj())
+реультаты в файле code/test_res.txt
 3) Помещается ли в многоугольник (to-do)
 - посмотреть есть ли lope и star
 - сопоставить размеры площади, диаметра (max расстояние) мб по этим признакам выкинуть ответ
@@ -21,9 +21,7 @@ TO-DO: требования про библиотеку и тесты в ноу�
 [UP, DOWN, LEFT, RIGHT] = ["UP","DOWN","LEFT","RIGHT"]
 UNKNOWN = 'UNKNOWN'
 
-names = ['black_obj.jpg','divider.jpg','eraser.jpg','loupe.jpg','marker.jpg','pencil.jpg','star.jpg','sticker.jpg','tardis.jpg','Virt.jpg']
-[BLACK_OBJ, DIVIDER,ERASER,LOUPE,MARKER,PENCIL,STAR,STIKER,TARDIS,VIRT] = ['black_obj','divider','eraser','loupe','marker','pencil','star','sticker','tardis','Virt']
-OBJ = [BLACK_OBJ, DIVIDER,ERASER,LOUPE,MARKER,PENCIL,STAR,STIKER,TARDIS,VIRT]
+OBJ =[BLACK_OBJ, DIVIDER,ERASER,LOUPE,MARKER,PENCIL,STAR,STIKER,TARDIS,VIRT] = ['black_obj','divider','eraser','loupe','marker','pencil','star','sticker','tardis','Virt']
 some_obj = OBJ
 some_obj.remove(LOUPE)
 some_obj.remove(STAR)
@@ -59,9 +57,10 @@ def find_polygon_paper(img):
             M = cv2.moments(cnt)
             cx.append(int(M['m10'] / M['m00']))
             cy.append(int(M['m01'] / M['m00']))
+
     # search paper and polygon
     for i in range(len(cx)-1):
-        if np.linalg.norm([cx[i]-cx[i+1], cy[i]-cy[i+1]]) < 20:
+        if np.linalg.norm([cx[i]-cx[i+1], cy[i]-cy[i+1]]) < 50:
             polygon = good_cnt[i]
             good_cnt.pop(i+1)
             good_cnt.pop(i)
@@ -79,17 +78,17 @@ def find_polygon_paper(img):
                     pos = LEFT
             break
 
-    idx = area_cnt.index(max(area_cnt))
+    idx = np.argmax(area_cnt)#area_cnt.index(max(area_cnt))
     paper = good_cnt[idx]
     good_cnt.pop(idx)
     return polygon,pos, paper
 
 def test_poly_list():
-    for i in range(5, 29):
+    for i in range(1, 29):
         print("i = ", i)
         img = imread('test/' + str(i) + '.jpg')
 
-        polygon,pos, paper, good_cnt = find_polygon_paper(img)
+        polygon,pos, paper = find_polygon_paper(img)
 
         cv2.drawContours(img, [paper], 0, (0, 255, 0), 10)
         cv2.drawContours(img, [polygon], 0, (255, 0, 0), 10)
