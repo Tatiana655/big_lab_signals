@@ -1,0 +1,62 @@
+i =  1
+res =  True func_opt =  0 [cx,cy] х cnt =  [1551.69997441 3607.63293558 1329.47660701 3375.08007655 1366.74508418
+ 3805.95410257] phi х cnt =  [261 323  87]
+i =  2
+res =  False func_opt =  7344 [cx,cy] х cnt =  [1354.78539101 1096.82369172 1057.0258599  1219.22503561] phi х cnt =  [ 44 193]
+i =  3
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  4
+res =  True func_opt =  0 [cx,cy] х cnt =  [1322.02361426 1263.51288878 1256.00412574  926.00707398] phi х cnt =  [182  12]
+i =  5
+res =  True func_opt =  0 [cx,cy] х cnt =  [1282.95441346  882.92068076 1050.21824533 1171.62689521] phi х cnt =  [ 51 339]
+i =  6
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  7
+res =  True func_opt =  0 [cx,cy] х cnt =  [1310.69254221 1188.0726803  1018.46760964 1173.84415365] phi х cnt =  [ 76 288]
+i =  8
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  9
+res =  True func_opt =  0 [cx,cy] х cnt =  [ 823.7132382  1028.54471936  917.9826469  1387.48984886] phi х cnt =  [309 232]
+i =  10
+res =  True func_opt =  0 [cx,cy] х cnt =  [ 640.28126089 1221.85161253  673.25391112 1643.25243901  981.0274827
+ 1326.25228075] phi х cnt =  [ 17 116 344]
+i =  11
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  12
+res =  False func_opt =  24490 [cx,cy] х cnt =  [1336.73717382 1864.3267059  1282.45787533 1710.3667505  1388.22763857
+ 1654.6867254 ] phi х cnt =  [102 304   4]
+i =  13
+res =  True func_opt =  0 [cx,cy] х cnt =  [1390.0206333  1968.05490823] phi х cnt =  [76]
+i =  14
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  15
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  16
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  17
+res =  False func_opt =  4555 [cx,cy] х cnt =  [1296.75792327  904.25728636 1408.94428788 1119.54747768 1384.68593122
+  768.64966921] phi х cnt =  [262 295 321]
+i =  18
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  19
+res =  False func_opt =  10979 [cx,cy] х cnt =  [1270.65895834 3214.02897129  993.2082786  3317.35015887] phi х cnt =  [100 193]
+i =  20
+res =  False func_opt =  15365 [cx,cy] х cnt =  [1260.03480445 3180.60185273  897.76569415 3030.05394985] phi х cnt =  [ 80 161]
+i =  21
+res =  False func_opt =  20761 [cx,cy] х cnt =  [1073.33253361 3146.05644834 1347.675481   3216.98350019] phi х cnt =  [260  48]
+i =  22
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  23
+res =  False func_opt =  26243 [cx,cy] х cnt =  [1242.08163869 3341.44388124  946.32190678 2689.51287353] phi х cnt =  [ 24 270]
+i =  24
+res =  False func_opt =  49080 [cx,cy] х cnt =  [ 976.42521928 3103.92205049  998.6137035  2907.6023487 ] phi х cnt =  [264 234]
+i =  25
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  26
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  27
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  28
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []
+i =  29
+res =  False func_opt =  -1 [cx,cy] х cnt =  [] phi х cnt =  []

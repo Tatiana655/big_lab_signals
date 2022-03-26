@@ -1,0 +1,58 @@
+1i =  1
+['star', 'star', 'star']
+i =  2
+['loupe', 'star', 'star']
+i =  3
+['divider', 'pencil']
+i =  4
+['sticker', 'Virt']
+i =  5
+['tardis', 'Virt']
+i =  6
+['loupe', 'star', 'pencil', 'tardis', 'black_obj']
+i =  7
+['sticker', 'tardis']
+i =  8
+['sticker', 'tardis', 'pencil', 'Virt', 'marker']
+i =  9
+['star', 'black_obj']
+i =  10
+['star', 'star', 'black_obj']
+i =  11
+['black_obj', 'pencil', 'Virt']
+i =  12
+['sticker', 'tardis', 'pencil', 'black_obj', 'marker']
+i =  13
+['loupe', 'star']
+i =  14
+['sticker', 'pencil', 'marker', 'eraser']
+i =  15
+['tardis', 'pencil', 'Virt']
+i =  16
+['loupe', 'pencil', 'tardis', 'black_obj', 'marker']
+i =  17
+['sticker', 'star', 'black_obj']
+i =  18
+['loupe', 'sticker']
+i =  19
+['loupe', 'sticker', 'star']
+i =  20
+['loupe', 'sticker']
+i =  21
+['star', 'divider']
+i =  22
+['sticker', 'pencil']
+i =  23
+['sticker', 'divider']
+i =  24 !
+['pencil', 'Virt', 'black_obj']
+i =  25
+['sticker', 'pencil', 'Virt']
+i =  26
+['sticker', 'tardis', 'Virt', 'pencil', 'black_obj', 'marker']
+i =  27
+['loupe', 'sticker']
+i =  28
+['sticker', 'tardis', 'Virt']
+i =  29
+['pencil', 'tardis', 'Virt']
